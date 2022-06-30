@@ -1,4 +1,4 @@
-# 7-segment-display-with-interrupt
+# 7-segment-display-with-interrupt using stm32 
 ## A software to perform a decimal counter on a 7-segment display.
 ### System inputs:
 * two push buttons.
